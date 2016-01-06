@@ -1,0 +1,13 @@
+D:\TFS01\Sandbox\JM\TestAndroid\TestAndroid\obj\Debug\assemblies\TestAndroid.dll
+D:\TFS01\Sandbox\JM\TestAndroid\TestAndroid\obj\Debug\assemblies\Mono.Android.dll
+D:\TFS01\Sandbox\JM\TestAndroid\TestAndroid\obj\Debug\assemblies\mscorlib.dll
+D:\TFS01\Sandbox\JM\TestAndroid\TestAndroid\obj\Debug\assemblies\System.Core.dll
+D:\TFS01\Sandbox\JM\TestAndroid\TestAndroid\obj\Debug\assemblies\System.dll
+D:\TFS01\Sandbox\JM\TestAndroid\TestAndroid\obj\Debug\assemblies\System.Xml.dll
+D:\TFS01\Sandbox\JM\TestAndroid\TestAndroid\obj\Debug\assemblies\System.Xml.Linq.dll
+D:\TFS01\Sandbox\JM\TestAndroid\TestAndroid\obj\Debug\assemblies\Xamarin.Android.Support.Design.dll
+D:\TFS01\Sandbox\JM\TestAndroid\TestAndroid\obj\Debug\assemblies\Xamarin.Android.Support.v4.dll
+D:\TFS01\Sandbox\JM\TestAndroid\TestAndroid\obj\Debug\assemblies\Xamarin.Android.Support.v7.AppCompat.dll
+D:\TFS01\Sandbox\JM\TestAndroid\TestAndroid\obj\Debug\assemblies\Xamarin.Android.Support.v7.RecyclerView.dll
+D:\TFS01\Sandbox\JM\TestAndroid\TestAndroid\obj\Debug\assemblies\System.Runtime.Serialization.dll
+D:\TFS01\Sandbox\JM\TestAndroid\TestAndroid\obj\Debug\assemblies\System.ServiceModel.Internals.dll
